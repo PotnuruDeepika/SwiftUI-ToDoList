@@ -10,9 +10,9 @@ A simple ToDo list app built using **SwiftUI** with MVVM and UserDefaults persis
 - Clean MVVM architecture
 
 ## 📂 Project Structure
-Model/ → ToDoItem.swift
-View/ → ToDoListView.swift,
-      → AddToDoView.swift
-ViewModel/ → ToDoListViewModel.swift
-Storage/ → ToDoStorage.swift
+Model/ → ToDoItem.swift  
+View/ → ToDoListView.swift,  
+      → AddToDoView.swift  
+ViewModel/ → ToDoListViewModel.swift  
+Storage/ → ToDoStorage.swift  
 TODoList_SwiftUIApp
